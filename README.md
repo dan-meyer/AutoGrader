@@ -1,6 +1,5 @@
 # AutoGrader
 Problem:  I lose my wife for 1-2 weeks 3x per year (each trimester) to grade assignments across 600+ students from grades 1-6.
-
 Solution: Use AI to automate grading.
  
 Inspiration:
