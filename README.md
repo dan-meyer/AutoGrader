@@ -1,10 +1,12 @@
 # AutoGrader
-Problem:  I lose my wife for 1-2 weeks 3x per year (each trimester) to grade assignments across 600+ students from grades 1-6. 
+Problem:  I lose my wife for 1-2 weeks 3x per year (each trimester) to grade assignments across 600+ students from grades 1-6.
+
 Solution: Use AI to automate grading.
  
 Inspiration:
 https://techcommunity.microsoft.com/t5/educator-developer-blog/empowering-educators-automated-assignment-scoring-via-azure/ba-p/3828127
 Source code as reference:  https://github.com/wongcyrus/AzureOpenAIChatGTPAutoGrader
+
 
 Details:
 Since I am using AI, I want to ask ChatGPT-3 to write the code for me.  See chatgpt_grading_program_prompt.txt.
